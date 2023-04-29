@@ -94,4 +94,6 @@ El primer paso es limpiar los datos y crear nuevas tablas con los datos limpios.
 9. ¿Podemos saber la cantidad de ofertas publicadas por mes y keyword? ¿Qué meses son más top y con qué keywords? 
 10. ¿Qué conclusiones podemos sacar del análisis? 
 
-## Conclusión 
+### En el siguiente link podra ver el link con el archivo generado en Mysql
+
+https://github.com/guzmajo/Project3-mysql/blob/main/proyecto%203.sql
