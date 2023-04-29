@@ -31,6 +31,9 @@ Queremos sacar conclusiones del mercado laboral del mundo de los datos. Para eso
 ## Los datos. 
 :floppy_disk:  
 
+![Alt Text](https://github.com/guzmajo/Project3-mysql/blob/main/Captura_de_Pantalla_2022-12-09_a_la(s)_10.23.24.png)
+
+
 ## La solución. 
 :wrench:  
 
