@@ -21,13 +21,16 @@ Es una red social profesional donde muchas empresas publican ofertas de trabajo.
 
 Queremos sacar conclusiones del mercado laboral del mundo de los datos. Para eso tenemos información sobre una descarga de datos de webscrapping que hemos conseguido y tenemos que validar primero si los datos son correctos y luego llegar a determinadas conclusiones. :grey_question: 
 
-## Los datos. :floppy_disk:  
+## Los datos. 
+:floppy_disk:  
 
-## La solución. :wrench:  
+## La solución. 
+:wrench:  
 
 El primer paso es limpiar los datos y crear nuevas tablas con los datos limpios. El segundo paso será automatizar esa limpieza con un SP que se ejecute de forma diaria y nos actualice la información en la nueva tabla. 
 
-## El proceso. :gear:  
+## El proceso. 
+:gear:  
 
 ### Análisis exploratorio previo 
 
