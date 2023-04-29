@@ -1,4 +1,8 @@
-# Project3-mysql
+<h1 align="center">Proyecto # 3 - Automatización + Limpieza de datos + Análisis</h1>
+<p align="center"> <img src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" alt="Alt Text" width="200" height="100">
+</p>
+
+## Indice: 
 
 1. [El cliente](#el-cliente)
 2. [Linkedin](#linkedin)
@@ -13,7 +17,10 @@
 
 Somos analistas de datos y queremos analizar el mercado laboral en estos roles. Para eso estamos obteniendo datos de los puestos de trabajo que figuran en Linkedin en áreas de análisis de datos para distintos países. :satellite: 
 
-## Linkedin: 
+## Linkedin:
+
+<img src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" alt="Alt Text" width="200" height="200">
+
 
 Es una red social profesional donde muchas empresas publican ofertas de trabajo. :computer: 
 
