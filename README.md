@@ -1,37 +1,43 @@
 # Project3-mysql
 
-1. [El cliente](#satellite-el-cliente)
-2. [Linkedin](#computer-linkedin)
-3. [El problema](#grey_question-el-problema)
-4. [Los datos](#floppy_disk-los-datos)
-5. [La solución](#wrench-la-solución)
-6. [El proceso](#gear-el-proceso)
+1. [El cliente](#el-cliente)
+2. [Linkedin](#linkedin)
+3. [El problema](#el-problema)
+4. [Los datos](#los-datos)
+5. [La solución](#la-solución)
+6. [El proceso](#el-proceso)
 7. [Análisis exploratorio previo](#análisis-exploratorio-previo)
 8. [Ejecución](#ejecución)
 
-:satellite: El cliente: Somos analistas de datos y queremos analizar el mercado laboral en estos roles. Para eso estamos obteniendo datos de los puestos de trabajo que figuran en Linkedin en áreas de análisis de datos para distintos países. 
+## El cliente: 
 
-:computer: Linkedin: Es una red social profesional donde muchas empresas publican ofertas de trabajo. 
+Somos analistas de datos y queremos analizar el mercado laboral en estos roles. Para eso estamos obteniendo datos de los puestos de trabajo que figuran en Linkedin en áreas de análisis de datos para distintos países. :satellite: 
 
-:grey_question: El problema: Queremos sacar conclusiones del mercado laboral del mundo de los datos. Para eso tenemos información sobre una descarga de datos de webscrapping que hemos conseguido y tenemos que validar primero si los datos son correctos y luego llegar a determinadas conclusiones. 
+## Linkedin: 
 
-:floppy_disk: Los datos 
+Es una red social profesional donde muchas empresas publican ofertas de trabajo. :computer: 
 
-:wrench: La solución 
+## El problema: 
+
+Queremos sacar conclusiones del mercado laboral del mundo de los datos. Para eso tenemos información sobre una descarga de datos de webscrapping que hemos conseguido y tenemos que validar primero si los datos son correctos y luego llegar a determinadas conclusiones. :grey_question: 
+
+## Los datos. :floppy_disk:  
+
+## La solución. :wrench:  
 
 El primer paso es limpiar los datos y crear nuevas tablas con los datos limpios. El segundo paso será automatizar esa limpieza con un SP que se ejecute de forma diaria y nos actualice la información en la nueva tabla. 
 
-:gear: El proceso 
+## El proceso. :gear:  
 
-Análisis exploratorio previo 
+### Análisis exploratorio previo 
 
 1. ¿Qué tipo de datos tenemos?
 2. ¿Qué limpieza observamos que podríamos hacer?
 3. ¿Cómo validamos datos?
 
-Ejecución 
+## Ejecución 
 
-Parte I - Crear tabla linkedin_data + SP de recarga de datos 
+### Parte I - Crear tabla linkedin_data + SP de recarga de datos 
 
 1. Cargar la base de datos “linkedin_data”
 2. Crear tabla linkedin_ofertas (con los siguientes campos: linkedin_ofertas (
@@ -47,7 +53,7 @@ Parte I - Crear tabla linkedin_data + SP de recarga de datos
 5. Crear un stored procedure con la query de limpieza que inserte datos en la tabla.
 6. Crear el evento que ejecute el SP de forma diaria
 
-Parte II - Crear tabla linkedin_busquedas + SP de recarga de datos 
+### Parte II - Crear tabla linkedin_busquedas + SP de recarga de datos 
 
 1. Crear tabla linkedin_busquedas (linkedin_busquedas (
   id_busqueda  INT PRIMARY KEY,
