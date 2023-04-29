@@ -1,5 +1,14 @@
 # Project3-mysql
 
+1. [El cliente](#satellite-el-cliente)
+2. [Linkedin](#computer-linkedin)
+3. [El problema](#grey_question-el-problema)
+4. [Los datos](#floppy_disk-los-datos)
+5. [La solución](#wrench-la-solución)
+6. [El proceso](#gear-el-proceso)
+7. [Análisis exploratorio previo](#análisis-exploratorio-previo)
+8. [Ejecución](#ejecución)
+
 :satellite: El cliente: Somos analistas de datos y queremos analizar el mercado laboral en estos roles. Para eso estamos obteniendo datos de los puestos de trabajo que figuran en Linkedin en áreas de análisis de datos para distintos países. 
 
 :computer: Linkedin: Es una red social profesional donde muchas empresas publican ofertas de trabajo. 
