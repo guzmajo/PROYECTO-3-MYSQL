@@ -99,8 +99,10 @@ El primer paso es limpiar los datos y crear nuevas tablas con los datos limpios.
 https://github.com/guzmajo/Project3-mysql/blob/main/proyecto%203.sql
 
 ## Conclusiones
+
 <h2>Análisis de datos del mercado laboral en el campo del análisis de datos</h2>
 <ul>
+  
   <li><strong>McKinsey & Company</strong> tiene el mayor número de ofertas de trabajo entre las empresas enumeradas, con <strong>34 ofertas de trabajo</strong>.</li>
   <li><strong>Bogotá, D.C., Distrito Capital, Colombia</strong> tiene el mayor número de ofertas de trabajo por ubicación, con <strong>158 ofertas de trabajo</strong>.</li>
   <li><strong>El 8 de noviembre de 2022</strong> tuvo el mayor número de ofertas de trabajo por fecha, con <strong>136 ofertas de trabajo</strong>.</li>
